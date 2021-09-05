@@ -15,7 +15,7 @@ status-website:
   theme: dark
   baseUrl: /Timmy-StatusPage
   logoUrl: https://i.gyazo.com/deabc2ca6cc4dcf54f16b25997719ef7.png
-  name: Upptime
+  name: Timmy's Uptime
   introTitle: "Timmy's Uptime Page"
   introMessage: This page represents Timmy's UpTime and updates every 5 minutes!
   navbar:
