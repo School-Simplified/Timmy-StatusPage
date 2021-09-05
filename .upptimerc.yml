@@ -4,7 +4,7 @@ repo: Timmy-StatusPage # The name of this repository
 
 sites:
   - name: Timmy
-    url: http://spaceturtle.tech:5000
+    url: https://spaceturtle.tech:5000
     logo: https://i.gyazo.com/086f9cf2d8a298509fa9fca03dba7751.png
     __dangerous__insecure: true
 
