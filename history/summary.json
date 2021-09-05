@@ -4,19 +4,19 @@
     "url": "http://spaceturtle.tech:5000",
     "icon": "https://favicons.githubusercontent.com/spaceturtle.tech",
     "slug": "timmy",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "96.52%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "96.52%",
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2021-09-05": 0
+      "2021-09-05": 5
     }
   }
 ]
