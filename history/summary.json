@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/spaceturtle.tech",
     "slug": "timmy",
     "status": "down",
-    "uptime": "55.26%",
-    "uptimeDay": "55.26%",
-    "uptimeWeek": "55.26%",
-    "uptimeMonth": "55.26%",
-    "uptimeYear": "55.26%",
+    "uptime": "27.53%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "27.53%",
+    "uptimeMonth": "27.53%",
+    "uptimeYear": "27.53%",
     "time": 138,
-    "timeDay": 138,
+    "timeDay": 0,
     "timeWeek": 138,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2021-09-06": 57,
+      "2021-09-07": 50,
+      "2021-09-06": 1440,
       "2021-09-05": 579
     }
   }
